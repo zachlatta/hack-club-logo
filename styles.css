@@ -1,0 +1,20 @@
+html, body {
+  width: 100%;
+  height: 100%;
+}
+
+body {
+  background: linear-gradient(to bottom right, #FE4B57, #EB4E70);
+  margin: 0;
+}
+
+.logo {
+  background-image: url('logo.svg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: 75%;
+
+  width: 100%;
+  height: 100%;
+}
